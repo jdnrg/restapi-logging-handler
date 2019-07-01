@@ -18,7 +18,7 @@ setup(
     packages=['restapi_logging_handler'],
     install_requires=['requests-futures'],
     author='James DuPont',
-    author_email='james.dupont@nrg.com'
+    author_email='james.dupont@nrg.com',
     url='https://github.com/jdrng/restapi-logging-handler.git',
     download_url=(
         'https://github.com/jdnrg/restapi-logging-handler.git/'
